@@ -51,11 +51,11 @@ title: Funding
 1. ใบสมัครขอรับทุนการศึกษา โครงการทุนการศึกษาเพื่อน้อง พร้อมประทับตราโรงเรียน
 
 2. ใบรายงานผลการเรียนปีการศึกษาล่าสุด <br>
-[ดาวน์โหลดใบสมัครโครงการทุนการศึกษาเพื่อน้อง (TEF-Net)](https://drive.google.com/uc?export=download&id=1r-H59MtuHX5jl8CIZYaaaBsCKl-Sp0JV)
+[ดาวน์โหลดใบสมัครโครงการทุนการศึกษาเพื่อน้อง (TEF-Net)](https://drive.google.com/uc?export=download&id=1wz2ICqefxL272OplVg5-ox4H8sDiV_WM)
 
 
 ## ระยะเวลาในการรับสมัคร
-1. เปิดรับสมัครตั้งแต่ วันที่ 1 ธันวาคม ถึง วันที่ 15 ธันวาคม ของทุกปี นักเรียนที่สนใจสามารถดาวน์โหลดใบสมัครได้ที่ [ดาวน์โหลดใบสมัครโครงการทุนการศึกษาเพื่อน้อง (TEF-Net)](https://drive.google.com/uc?export=download&id=1r-H59MtuHX5jl8CIZYaaaBsCKl-Sp0JV) และส่งใบสมัครมาที่ [TEFNetinfo@gmail.com](mailto:TEFNetinfo@gmail.com)
+1. เปิดรับสมัครตั้งแต่ วันที่ 1 ธันวาคม ถึง วันที่ 15 ธันวาคม ของทุกปี นักเรียนที่สนใจสามารถดาวน์โหลดใบสมัครได้ที่ [ดาวน์โหลดใบสมัครโครงการทุนการศึกษาเพื่อน้อง (TEF-Net)](https://drive.google.com/uc?export=download&id=1wz2ICqefxL272OplVg5-ox4H8sDiV_WM) และส่งใบสมัครมาที่ [TEFNetinfo@gmail.com](mailto:TEFNetinfo@gmail.com)
 
 2. ประกาศผล : วันที่ 1 มกราคม ของทุกปี ทางเว็บไซต์ [www.TEF-Net.com](www.tef-net.com)
 
