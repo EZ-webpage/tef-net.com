@@ -37,7 +37,7 @@ title: Funding
 %}
 {% endcapture %}
 
-{% include centerer.html html=mediumcards %}
+{% include centerer.html html=largecards %}
 
 ## คุณสมบัติของผู้ที่มีสิทธิ์ขอรับทุนการศึกษา
 1. ผู้สมัครขอรับทุนการศึกษา จะต้องเป็นนักเรียนที่ได้รับเลือกขั้นต้นจากโรงเรียนที่ร่วมโครงการ*
